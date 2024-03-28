@@ -1,0 +1,30 @@
+ [
+    {
+      "name": "Jane Doe",
+      "image": "jane_doe.jpg",
+      "age": 35,
+      "numberOfBooks": 10,
+      "rating": 4.5
+    },
+    {
+      "name": "John Smith",
+      "image": "john_smith.jpg",
+      "age": 42,
+      "numberOfBooks": 8,
+      "rating": 4.2
+    },
+    {
+      "name": "Alice Johnson",
+      "image": "alice_johnson.jpg",
+      "age": 40,
+      "numberOfBooks": 12,
+      "rating": 4.8
+    },
+    {
+      "name": "Michael Brown",
+      "image": "michael_brown.jpg",
+      "age": 50,
+      "numberOfBooks": 15,
+      "rating": 4.6
+    }
+  ]
